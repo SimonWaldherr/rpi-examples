@@ -36,6 +36,10 @@ Sometimes Raspberrys are unfortunately difficult to obtain, but there is the gre
 
 ## Examples
 
+### [NAU7802](https://github.com/SimonWaldherr/rpi-examples/tree/master/nau7802) 
+The nau7802 is a chip that makes it easy to query load cells with the RaspberryPi via I2C. 
+You can [buy the Adafruit nau7802-board on Amazon](https://amzn.to/3ChGI1B), or [this one from SparkFun](https://amzn.to/3CkYPnk). 
+
 ### [HX711](https://github.com/SimonWaldherr/rpi-examples/tree/master/hx711) 
 The hx711 is a chip that makes it possible to query load cells with the RaspberryPi (or other systems, e.g. the Arduino). 
 You can [buy boards with the hx711-chip on Amazon](https://amzn.to/3LyGWFl). 

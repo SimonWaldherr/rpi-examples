@@ -3,7 +3,7 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/simonwaldherr/rpi-examples)](https://goreportcard.com/report/github.com/simonwaldherr/rpi-examples)  
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)  
 
-If you liked this project, you may also like one of these projects [golang-examples](https://github.com/SimonWaldherr/golang-examples), [golang-benchmarks](https://github.com/SimonWaldherr/golang-benchmarks) or [sql-examples](https://github.com/SimonWaldherr/sql-examples).
+If you liked this project, you may also like one of these projects [rp2040-examples](https://github.com/SimonWaldherr/rp2040-examples), [golang-examples](https://github.com/SimonWaldherr/golang-examples), [golang-benchmarks](https://github.com/SimonWaldherr/golang-benchmarks) or [sql-examples](https://github.com/SimonWaldherr/sql-examples).
 
 ## About
 
